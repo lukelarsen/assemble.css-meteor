@@ -37,7 +37,7 @@ Package.onUse(function(api) {
           'assemble.css/objects/media/_media-object.scss',
           'assemble.css/objects/modals/_modal-object.scss',
           'assemble.css/objects/modals/_modal-print.scss',
-          'assemble.css/objects/nav/_nav-object.scss',
+          'assemble.css/objects/navs/_nav-object.scss',
           'assemble.css/objects/notifications/_notification-object.scss',
           'assemble.css/objects/notifications/_notification-print.scss',
           'assemble.css/objects/tables/_table-object.scss',
