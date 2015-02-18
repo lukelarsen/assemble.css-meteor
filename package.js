@@ -1,14 +1,11 @@
 Package.describe({
   name: 'lukelarsen:assemble.css-meteor',
-  version: '0.0.3',
+  version: '0.0.4',
   summary: 'Assemble.css as a Meteor Package. See assemblecss.com for more details.',
   git: 'https://github.com/lukelarsen/assemble.css-meteor',
 });
 
 Package.onUse(function(api) {
-    api.use('fourseven:scss@1.0.0', ['client', 'server']);
-    api.imply('fourseven:scss@1.0.0', ['client', 'server']);
-
     var jsAssets = [
           'assemble.css/javascript/tip.js',
           'assemble.css/javascript/vanilla-modal.js'
