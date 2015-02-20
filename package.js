@@ -1,6 +1,6 @@
 Package.describe({
   name: 'lukelarsen:assemble.css-meteor',
-  version: '1.0.0',
+  version: '1.0.1',
   summary: 'Assemble.css as a Meteor Package. See assemblecss.com for more details.',
   git: 'https://github.com/lukelarsen/assemble.css-meteor',
 });
