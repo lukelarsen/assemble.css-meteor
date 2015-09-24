@@ -32,7 +32,6 @@ Package.onUse(function(api) {
           'assemble.css/objects/forms/_forms-object.scss',
           'assemble.css/objects/grids/_grids-extends.scss',
           'assemble.css/objects/grids/_grids-mixins.scss',
-          'assemble.css/objects/grids/_grids-mixins.scss',
           'assemble.css/objects/icons/_icons-object.scss',
           'assemble.css/objects/lists/_list-object.scss',
           'assemble.css/objects/media/_media-object.scss',
